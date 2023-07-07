@@ -1,1 +1,4 @@
 Untracked
+Tracked (Staged)
+Modified
+Committed
